@@ -1,2 +1,2 @@
-# cheapstate
+# react-cheapstate
 Created with CodeSandbox
